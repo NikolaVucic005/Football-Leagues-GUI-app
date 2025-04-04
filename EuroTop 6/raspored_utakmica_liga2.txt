@@ -1,0 +1,99 @@
+1. Le Havre
+   Le Havre vs. Bordeaux - 5. april 2025, 16:00
+   Metz vs. Le Havre - 12. april 2025, 14:30
+   Le Havre vs. Saint-Etienne - 19. april 2025, 18:00
+
+2. Bordeaux
+   Bordeaux vs. Le Havre - 6. april 2025, 14:30
+   Bordeaux vs. Metz - 13. april 2025, 16:00
+   Bordeaux vs. Sochaux - 20. april 2025, 14:00
+
+3. Metz
+   Metz vs. Le Havre - 6. april 2025, 14:30
+   Metz vs. Bordeaux - 13. april 2025, 16:30
+   Metz vs. Paris FC - 20. april 2025, 14:30
+
+4. Saint-Etienne
+   Saint-Etienne vs. Sochaux - 5. april 2025, 14:00
+   Saint-Etienne vs. Paris FC - 12. april 2025, 16:00
+   Saint-Etienne vs. Amiens - 19. april 2025, 14:30
+
+5. Sochaux
+   Sochaux vs. Saint-Etienne - 6. april 2025, 14:00
+   Sochaux vs. Paris FC - 13. april 2025, 14:00
+   Sochaux vs. Valenciennes - 20. april 2025, 16:30
+
+6. Paris FC
+   Paris FC vs. Metz - 5. april 2025, 16:30
+   Paris FC vs. Saint-Etienne - 12. april 2025, 14:00
+   Paris FC vs. Sochaux - 19. april 2025, 18:00
+
+7. Amiens
+   Amiens vs. Valenciennes - 6. april 2025, 16:30
+   Amiens vs. Pau FC - 13. april 2025, 14:00
+   Amiens vs. Quevilly-Rouen - 20. april 2025, 14:00
+
+8. Valenciennes
+   Valenciennes vs. Amiens - 5. april 2025, 14:30
+   Valenciennes vs. Pau FC - 12. april 2025, 16:30
+   Valenciennes vs. Dijon - 19. april 2025, 14:30
+
+9. Pau FC
+   Pau FC vs. Amiens - 6. april 2025, 14:00
+   Pau FC vs. Valenciennes - 13. april 2025, 14:30
+   Pau FC vs. Caen - 20. april 2025, 16:30
+
+10. Quevilly-Rouen
+   Quevilly-Rouen vs. Dijon - 5. april 2025, 16:00
+   Quevilly-Rouen vs. Caen - 12. april 2025, 14:30
+   Quevilly-Rouen vs. Grenoble - 19. april 2025, 18:00
+
+11. Dijon
+   Dijon vs. Quevilly-Rouen - 6. april 2025, 16:30
+   Dijon vs. Grenoble - 13. april 2025, 14:00
+   Dijon vs. Nimes - 20. april 2025, 14:30
+
+12. Caen
+   Caen vs. Pau FC - 6. april 2025, 16:30
+   Caen vs. Quevilly-Rouen - 13. april 2025, 14:00
+   Caen vs. Laval - 20. april 2025, 14:00
+
+13. Grenoble
+   Grenoble vs. Dijon - 5. april 2025, 14:00
+   Grenoble vs. Laval - 12. april 2025, 14:30
+   Grenoble vs. Niort - 19. april 2025, 18:00
+
+14. Niort
+   Niort vs. Grenoble - 6. april 2025, 14:30
+   Niort vs. Laval - 13. april 2025, 14:00
+   Niort vs. Bastia - 20. april 2025, 16:30
+
+15. Concarneau
+   Concarneau vs. Bastia - 5. april 2025, 18:30
+   Concarneau vs. Dunkirk - 12. april 2025, 14:00
+   Concarneau vs. Nimes - 19. april 2025, 16:00
+
+16. Bastia
+   Bastia vs. Concarneau - 6. april 2025, 14:00
+   Bastia vs. Niort - 13. april 2025, 16:30
+   Bastia vs. Dunkirk - 20. april 2025, 16:00
+
+17. Laval
+   Laval vs. Caen - 5. april 2025, 14:30
+   Laval vs. Grenoble - 12. april 2025, 16:00
+   Laval vs. Annecy - 19. april 2025, 14:30
+
+18. Annecy
+   Annecy vs. Laval - 6. april 2025, 16:00
+   Annecy vs. Dunkirk - 13. april 2025, 14:30
+   Annecy vs. Concarneau - 20. april 2025, 16:30
+
+19. Dunkirk
+   Dunkirk vs. Annecy - 6. april 2025, 14:30
+   Dunkirk vs. Bastia - 13. april 2025, 16:00
+   Dunkirk vs. Pau FC - 20. april 2025, 14:00
+
+20. Nimes
+   Nimes vs. Dijon - 6. april 2025, 14:00
+   Nimes vs. Concarneau - 13. april 2025, 14:30
+   Nimes vs. Quevilly-Rouen - 20. april 2025, 14:30

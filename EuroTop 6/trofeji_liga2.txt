@@ -1,0 +1,119 @@
+1. Le Havre
+   Ligue 2 titule: 2
+   Coupe de France: 0
+   Trophee des Champions: 0
+   UEFA Lige sampiona: 0
+
+2. Bordeaux
+   Ligue 2 titule: 1
+   Coupe de France: 4
+   Trophee des Champions: 3
+   UEFA Lige sampiona: 0
+
+3. Metz
+   Ligue 2 titule: 2
+   Coupe de France: 2
+   Trophee des Champions: 0
+   UEFA Lige sampiona: 0
+
+4. Saint-Etienne
+   Ligue 2 titule: 0
+   Coupe de France: 6
+   Trophee des Champions: 0
+   UEFA Lige sampiona: 1
+
+5. Sochaux
+   Ligue 2 titule: 2
+   Coupe de France: 1
+   Trophee des Champions: 0
+   UEFA Lige sampiona: 0
+
+6. Paris FC
+   Ligue 2 titule: 0
+   Coupe de France: 0
+   Trophee des Champions: 0
+   UEFA Lige sampiona: 0
+
+7. Amiens
+   Ligue 2 titule: 1
+   Coupe de France: 0
+   Trophee des Champions: 0
+   UEFA Lige sampiona: 0
+
+8. Valenciennes
+   Ligue 2 titule: 1
+   Coupe de France: 0
+   Trophee des Champions: 0
+   UEFA Lige sampiona: 0
+
+9. Pau FC
+   Ligue 2 titule: 0
+   Coupe de France: 0
+   Trophee des Champions: 0
+   UEFA Lige sampiona: 0
+
+10. Quevilly-Rouen
+    Ligue 2 titule: 0
+    Coupe de France: 1
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+11. Dijon
+    Ligue 2 titule: 1
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+12. Caen
+    Ligue 2 titule: 1
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+13. Grenoble
+    Ligue 2 titule: 0
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+14. Niort
+    Ligue 2 titule: 0
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+15. Concarneau
+    Ligue 2 titule: 0
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+16. Bastia
+    Ligue 2 titule: 1
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+17. Laval
+    Ligue 2 titule: 0
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+18. Annecy
+    Ligue 2 titule: 0
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+19. Dunkirk
+    Ligue 2 titule: 0
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+20. Nimes
+    Ligue 2 titule: 2
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0

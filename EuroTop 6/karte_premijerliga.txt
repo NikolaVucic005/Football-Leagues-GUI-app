@@ -1,0 +1,4 @@
+Severna/Juzna tribina:100 eura
+Istocna tribina:120 eura
+Zapadna tribina:150 eura
+VIP loza:200 eura

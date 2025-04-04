@@ -1,0 +1,7 @@
+Fudbalski sal|7.5
+Fudbalske kopacke|20
+Fudbalska lopta|40
+Fudbalski ranac|45
+Fudbalski dres|45
+Fudbalske medalje/Pehari(kopija)|45
+Fudbalski dres sa potpisom igraca|70

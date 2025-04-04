@@ -1,0 +1,101 @@
+1. PEC Zwolle
+   PEC Zwolle vs. Almere City - 5. april 2025, 14:00
+   Heracles Almelo vs. PEC Zwolle - 12. april 2025, 14:30
+   PEC Zwolle vs. Eindhoven - 19. april 2025, 16:00
+
+2. Almere City
+   Almere City vs. PEC Zwolle - 6. april 2025, 16:30
+   Almere City vs. NAC Breda - 13. april 2025, 14:00
+   Almere City vs. Jong Ajax - 20. april 2025, 14:30
+
+3. Heracles Almelo
+   Heracles Almelo vs. PEC Zwolle - 6. april 2025, 14:30
+   Heracles Almelo vs. Eindhoven - 13. april 2025, 14:00
+   Heracles Almelo vs. Jong Ajax - 20. april 2025, 14:00
+
+4. Eindhoven
+   Eindhoven vs. PEC Zwolle - 5. april 2025, 16:00
+   Eindhoven vs. Heracles Almelo - 12. april 2025, 14:30
+   Eindhoven vs. VVV-Venlo - 19. april 2025, 14:30
+
+5. NAC Breda
+   NAC Breda vs. Almere City - 6. april 2025, 14:00
+   NAC Breda vs. Jong Ajax - 13. april 2025, 14:30
+   NAC Breda vs. Telstar - 20. april 2025, 14:30
+
+6. Jong Ajax
+   Jong Ajax vs. Almere City - 5. april 2025, 14:30
+   Jong Ajax vs. Heracles Almelo - 12. april 2025, 16:30
+   Jong Ajax vs. Eindhoven - 19. april 2025, 14:00
+
+7. Willem II
+   Willem II vs. FC Utrecht II - 6. april 2025, 16:00
+   Willem II vs. VVV-Venlo - 13. april 2025, 16:00
+   Willem II vs. Go Ahead Eagles - 20. april 2025, 14:00
+
+8. FC Utrecht II
+   FC Utrecht II vs. Willem II - 5. april 2025, 16:00
+   FC Utrecht II vs. Roda JC - 12. april 2025, 14:30
+   FC Utrecht II vs. Telstar - 19. april 2025, 18:00
+
+9. ADO Den Haag
+   ADO Den Haag vs. MVV Maastricht - 6. april 2025, 14:30
+   ADO Den Haag vs. FC Dordrecht - 13. april 2025, 16:00
+   ADO Den Haag vs. Fortuna Sittard - 20. april 2025, 16:30
+
+10. FC Dordrecht
+   FC Dordrecht vs. ADO Den Haag - 6. april 2025, 14:00
+   FC Dordrecht vs. Telstar - 13. april 2025, 16:30
+   FC Dordrecht vs. MVV Maastricht - 20. april 2025, 14:30
+
+11. MVV Maastricht
+   MVV Maastricht vs. ADO Den Haag - 5. april 2025, 14:30
+   MVV Maastricht vs. FC Dordrecht - 12. april 2025, 16:00
+   MVV Maastricht vs. Roda JC - 19. april 2025, 14:30
+
+12. Telstar
+   Telstar vs. FC Utrecht II - 6. april 2025, 16:00
+   Telstar vs. FC Dordrecht - 13. april 2025, 14:30
+   Telstar vs. NAC Breda - 20. april 2025, 16:30
+
+13. VVV-Venlo
+   VVV-Venlo vs. Eindhoven - 6. april 2025, 16:30
+   VVV-Venlo vs. Willem II - 13. april 2025, 14:00
+   VVV-Venlo vs. Fortuna Sittard - 20. april 2025, 14:00
+
+14. Roda JC
+   Roda JC vs. FC Utrecht II - 6. april 2025, 14:00
+   Roda JC vs. MVV Maastricht - 13. april 2025, 16:30
+   Roda JC vs. Go Ahead Eagles - 20. april 2025, 16:00
+
+15. Jong PSV
+   Jong PSV vs. Almere City - 6. april 2025, 14:30
+   Jong PSV vs. Telstar - 13. april 2025, 16:30
+   Jong PSV vs. Roda JC - 20. april 2025, 14:00
+
+16. FC Den Bosch
+   FC Den Bosch vs. Go Ahead Eagles - 5. april 2025, 14:30
+   FC Den Bosch vs. MVV Maastricht - 12. april 2025, 14:30
+   FC Den Bosch vs. Jong Ajax - 19. april 2025, 16:30
+
+17. Jong AZ
+   Jong AZ vs. FC Den Bosch - 6. april 2025, 16:00
+   Jong AZ vs. Eindhoven - 13. april 2025, 14:00
+   Jong AZ vs. Almere City - 20. april 2025, 14:30
+
+18. NAC Breda
+   NAC Breda vs. Almere City - 5. april 2025, 16:30
+   NAC Breda vs. Jong Ajax - 12. april 2025, 14:00
+   NAC Breda vs. Telstar - 19. april 2025, 14:30
+
+19. Fortuna Sittard
+   Fortuna Sittard vs. ADO Den Haag - 6. april 2025, 14:30
+   Fortuna Sittard vs. MVV Maastricht - 13. april 2025, 14:30
+   Fortuna Sittard vs. VVV-Venlo - 20. april 2025, 14:00
+
+20. Go Ahead Eagles
+   Go Ahead Eagles vs. Willem II - 6. april 2025, 14:00
+   Go Ahead Eagles vs. Roda JC - 13. april 2025, 14:30
+   Go Ahead Eagles vs. FC Den Bosch - 20. april 2025, 14:30
+
+

@@ -1,0 +1,119 @@
+1. Paris Saint-Germain
+   Ligue 1 titule: 11
+   Coupe de France: 14
+   Trophee des Champions: 11
+   UEFA Lige sampiona: 1
+
+2. Olympique Marseille
+   Ligue 1 titule: 9
+   Coupe de France: 10
+   Trophee des Champions: 3
+   UEFA Lige sampiona: 1
+
+3. AS Monaco
+   Ligue 1 titule: 8
+   Coupe de France: 5
+   Trophee des Champions: 2
+   UEFA Lige sampiona: 0
+
+4. Lyon
+   Ligue 1 titule: 7
+   Coupe de France: 5
+   Trophee des Champions: 8
+   UEFA Lige sampiona: 0
+
+5. Lille
+   Ligue 1 titule: 4
+   Coupe de France: 6
+   Trophee des Champions: 1
+   UEFA Lige sampiona: 0
+
+6. Rennes
+   Ligue 1 titule: 0
+   Coupe de France: 2
+   Trophee des Champions: 0
+   UEFA Lige sampiona: 0
+
+7. Nice
+   Ligue 1 titule: 4
+   Coupe de France: 3
+   Trophee des Champions: 0
+   UEFA Lige sampiona: 0
+
+8. Lens
+   Ligue 1 titule: 1
+   Coupe de France: 0
+   Trophee des Champions: 0
+   UEFA Lige sampiona: 0
+
+9. Montpellier
+   Ligue 1 titule: 1
+   Coupe de France: 0
+   Trophee des Champions: 0
+   UEFA Lige sampiona: 0
+
+10. Brest
+    Ligue 1 titule: 0
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+11. Clermont Foot
+    Ligue 1 titule: 0
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+12. Toulouse
+    Ligue 1 titule: 2
+    Coupe de France: 1
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+13. Nantes
+    Ligue 1 titule: 8
+    Coupe de France: 4
+    Trophee des Champions: 3
+    UEFA Lige sampiona: 0
+
+14. Strasbourg
+    Ligue 1 titule: 1
+    Coupe de France: 2
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+15. Lorient
+    Ligue 1 titule: 0
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+16. Reims
+    Ligue 1 titule: 6
+    Coupe de France: 2
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+17. Angers
+    Ligue 1 titule: 0
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+18. Ajaccio
+    Ligue 1 titule: 0
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+19. Le Havre
+    Ligue 1 titule: 0
+    Coupe de France: 0
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0
+
+20. Troyes
+    Ligue 1 titule: 0
+    Coupe de France: 1
+    Trophee des Champions: 0
+    UEFA Lige sampiona: 0

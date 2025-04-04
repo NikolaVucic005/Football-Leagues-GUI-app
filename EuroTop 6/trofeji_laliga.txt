@@ -1,0 +1,120 @@
+1. Real Madrid
+   La Liga titule: 35
+   Copa del Rey: 19
+   Supercopa de Espana: 13
+   UEFA Lige sampiona: 14
+
+2. Barcelona
+   La Liga titule: 27
+   Copa del Rey: 31
+   Supercopa de Espana: 13
+   UEFA Lige sampiona: 5
+
+3. Atletico Madrid
+   La Liga titule: 11
+   Copa del Rey: 10
+   Supercopa de Espana: 2
+   UEFA Lige sampiona: 0
+
+4. Real Sociedad
+   La Liga titule: 2
+   Copa del Rey: 3
+   Supercopa de Espana: 0
+   UEFA Lige sampiona: 0
+
+5. Real Betis
+   La Liga titule: 1
+   Copa del Rey: 3
+   Supercopa de Espana: 0
+   UEFA Lige sampiona: 0
+
+6. Rayo Vallecano
+   La Liga titule: 0
+   Copa del Rey: 0
+   Supercopa de Espana: 0
+   UEFA Lige sampiona: 0
+
+7. Girona
+   La Liga titule: 0
+   Copa del Rey: 0
+   Supercopa de Espana: 0
+   UEFA Lige sampiona: 0
+
+8. Villarreal
+   La Liga titule: 0
+   Copa del Rey: 1
+   Supercopa de Espana: 0
+   UEFA Lige sampiona: 0
+
+9. Athletic Bilbao
+   La Liga titule: 8
+   Copa del Rey: 23
+   Supercopa de Espana: 2
+   UEFA Lige sampiona: 0
+
+10. Valencia
+    La Liga titule: 6
+    Copa del Rey: 8
+    Supercopa de Espana: 2
+    UEFA Lige sampiona: 0
+
+11. Sevilla
+    La Liga titule: 1
+    Copa del Rey: 5
+    Supercopa de Espana: 1
+    UEFA Lige sampiona: 7
+
+12. Almeria
+    La Liga titule: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Lige sampiona: 0
+
+13. Celta Vigo
+    La Liga titule: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Lige sampiona: 0
+
+14. Getafe
+    La Liga titule: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Lige sampiona: 0
+
+15. Osasuna
+    La Liga titule: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Lige sampiona: 0
+
+16. Mallorca
+    La Liga titule: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Lige sampiona: 0
+
+17. Cadiz
+    La Liga titule: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Lige sampiona: 0
+
+18. Granada
+    La Liga titule: 0
+    Copa del Rey: 0
+    Supercopa de Espana: 0
+    UEFA Lige sampiona: 0
+
+19. Valladolid
+    La Liga titule: 0
+    Copa del Rey: 1
+    Supercopa de Espana: 0
+    UEFA Lige sampiona: 0
+
+20. Espanyol
+    La Liga titule: 0
+    Copa del Rey: 4
+    Supercopa de Espana: 0
+    UEFA Lige sampiona: 0
+

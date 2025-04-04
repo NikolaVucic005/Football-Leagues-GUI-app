@@ -1,0 +1,119 @@
+1. Bayern Munich
+   Bundesliga titule: 32
+   DFB-Pokal: 20
+   DFL-Supercup: 10
+   UEFA Lige sampiona: 6
+
+2. Borussia Dortmund
+   Bundesliga titule: 5
+   DFB-Pokal: 5
+   DFL-Supercup: 6
+   UEFA Lige sampiona: 1
+
+3. RB Leipzig
+   Bundesliga titule: 0
+   DFB-Pokal: 2
+   DFL-Supercup: 0
+   UEFA Lige sampiona: 0
+
+4. Bayer Leverkusen
+   Bundesliga titule: 0
+   DFB-Pokal: 0
+   DFL-Supercup: 0
+   UEFA Lige sampiona: 0
+
+5. VfB Stuttgart
+   Bundesliga titule: 5
+   DFB-Pokal: 3
+   DFL-Supercup: 1
+   UEFA Lige sampiona: 0
+
+6. Eintracht Frankfurt
+   Bundesliga titule: 1
+   DFB-Pokal: 5
+   DFL-Supercup: 2
+   UEFA Lige sampiona: 0
+
+7. Wolfsburg
+   Bundesliga titule: 1
+   DFB-Pokal: 1
+   DFL-Supercup: 0
+   UEFA Lige sampiona: 0
+
+8. Borussia Monchengladbach
+   Bundesliga titule: 5
+   DFB-Pokal: 3
+   DFL-Supercup: 0
+   UEFA Lige sampiona: 0
+
+9. Hoffenheim
+   Bundesliga titule: 0
+   DFB-Pokal: 0
+   DFL-Supercup: 0
+   UEFA Lige sampiona: 0
+
+10. Werder Bremen
+    Bundesliga titule: 4
+    DFB-Pokal: 6
+    DFL-Supercup: 3
+    UEFA Lige sampiona: 0
+
+11. FC Augsburg
+    Bundesliga titule: 0
+    DFB-Pokal: 0
+    DFL-Supercup: 0
+    UEFA Lige sampiona: 0
+
+12. Mainz 05
+    Bundesliga titule: 0
+    DFB-Pokal: 0
+    DFL-Supercup: 0
+    UEFA Lige sampiona: 0
+
+13. Union Berlin
+    Bundesliga titule: 0
+    DFB-Pokal: 0
+    DFL-Supercup: 0
+    UEFA Lige sampiona: 0
+
+14. FC Koln
+    Bundesliga titule: 2
+    DFB-Pokal: 4
+    DFL-Supercup: 0
+    UEFA Lige sampiona: 0
+
+15. Freiburg
+    Bundesliga titule: 0
+    DFB-Pokal: 1
+    DFL-Supercup: 0
+    UEFA Lige sampiona: 0
+
+16. VfL Bochum
+    Bundesliga titule: 0
+    DFB-Pokal: 0
+    DFL-Supercup: 0
+    UEFA Lige sampiona: 0
+
+17. Schalke 04
+    Bundesliga titule: 7
+    DFB-Pokal: 5
+    DFL-Supercup: 1
+    UEFA Lige sampiona: 0
+
+18. Arminia Bielefeld
+    Bundesliga titule: 0
+    DFB-Pokal: 0
+    DFL-Supercup: 0
+    UEFA Lige sampiona: 0
+
+19. St. Pauli
+    Bundesliga titule: 0
+    DFB-Pokal: 0
+    DFL-Supercup: 0
+    UEFA Lige sampiona: 0
+
+20. Nurnberg
+    Bundesliga titule: 9
+    DFB-Pokal: 4
+    DFL-Supercup: 0
+    UEFA Lige sampiona: 0

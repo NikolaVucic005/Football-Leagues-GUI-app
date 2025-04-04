@@ -1,0 +1,89 @@
+1. Ajax
+   Ajax vs. PSV Eindhoven - 5. april 2025, 16:00
+   Feyenoord vs. Ajax - 12. april 2025, 14:30
+   Ajax vs. AZ Alkmaar - 19. april 2025, 18:00
+
+2. PSV Eindhoven
+   PSV Eindhoven vs. Ajax - 6. april 2025, 14:30
+   PSV Eindhoven vs. Twente - 13. april 2025, 16:00
+   PSV Eindhoven vs. Groningen - 20. april 2025, 14:00
+
+3. Feyenoord
+   Feyenoord vs. Ajax - 5. april 2025, 14:30
+   Feyenoord vs. RKC Waalwijk - 12. april 2025, 14:00
+   Feyenoord vs. Heerenveen - 19. april 2025, 14:30
+
+4. AZ Alkmaar
+   AZ Alkmaar vs. Ajax - 6. april 2025, 16:30
+   AZ Alkmaar vs. Utrecht - 13. april 2025, 14:00
+   AZ Alkmaar vs. Volendam - 20. april 2025, 16:00
+
+5. Vitesse
+   Vitesse vs. Twente - 5. april 2025, 16:30
+   Vitesse vs. Groningen - 12. april 2025, 14:00
+   Vitesse vs. NEC Nijmegen - 19. april 2025, 18:30
+
+6. Utrecht
+   Utrecht vs. AZ Alkmaar - 6. april 2025, 14:00
+   Utrecht vs. Fortuna Sittard - 13. april 2025, 14:30
+   Utrecht vs. Emmen - 20. april 2025, 14:30
+
+7. Twente
+   Twente vs. PSV Eindhoven - 5. april 2025, 14:00
+   Twente vs. RKC Waalwijk - 12. april 2025, 14:30
+   Twente vs. Feyenoord - 19. april 2025, 18:00
+
+8. Groningen
+   Groningen vs. PSV Eindhoven - 6. april 2025, 14:30
+   Groningen vs. Vitesse - 13. april 2025, 16:00
+   Groningen vs. Cambuur - 20. april 2025, 14:00
+
+9. Heerenveen
+   Heerenveen vs. Feyenoord - 5. april 2025, 14:00
+   Heerenveen vs. Willem II - 12. april 2025, 16:30
+   Heerenveen vs. Sparta Rotterdam - 19. april 2025, 14:00
+
+10. Fortuna Sittard
+   Fortuna Sittard vs. Utrecht - 6. april 2025, 14:30
+   Fortuna Sittard vs. Cambuur - 13. april 2025, 14:00
+   Fortuna Sittard vs. Twente - 20. april 2025, 14:30
+
+11. RKC Waalwijk
+   RKC Waalwijk vs. Feyenoord - 6. april 2025, 14:00
+   RKC Waalwijk vs. Sparta Rotterdam - 13. april 2025, 16:00
+   RKC Waalwijk vs. Willem II - 20. april 2025, 16:00
+
+12. Willem II
+   Willem II vs. Heerenveen - 6. april 2025, 14:30
+   Willem II vs. RKC Waalwijk - 13. april 2025, 16:30
+   Willem II vs. Fortuna Sittard - 20. april 2025, 14:00
+
+13. Sparta Rotterdam
+   Sparta Rotterdam vs. Heerenveen - 5. april 2025, 16:00
+   Sparta Rotterdam vs. Twente - 12. april 2025, 14:00
+   Sparta Rotterdam vs. Cambuur - 19. april 2025, 18:00
+
+14. NEC Nijmegen
+   NEC Nijmegen vs. Vitesse - 6. april 2025, 14:30
+   NEC Nijmegen vs. AZ Alkmaar - 13. april 2025, 16:00
+   NEC Nijmegen vs. Ajax - 20. april 2025, 14:30
+
+15. Volendam
+   Volendam vs. AZ Alkmaar - 6. april 2025, 16:00
+   Volendam vs. Cambuur - 13. april 2025, 14:30
+   Volendam vs. NEC Nijmegen - 20. april 2025, 16:00
+
+16. Cambuur
+   Cambuur vs. Groningen - 6. april 2025, 14:30
+   Cambuur vs. Volendam - 13. april 2025, 16:30
+   Cambuur vs. Fortuna Sittard - 20. april 2025, 14:30
+
+17. Excelsior
+   Excelsior vs. Sparta Rotterdam - 5. april 2025, 14:30
+   Excelsior vs. Utrecht - 12. april 2025, 16:00
+   Excelsior vs. Willem II - 19. april 2025, 14:00
+
+18. Emmen
+   Emmen vs. Utrecht - 6. april 2025, 16:00
+   Emmen vs. Volendam - 13. april 2025, 14:30
+   Emmen vs. NEC Nijmegen - 20. april 2025, 16:30

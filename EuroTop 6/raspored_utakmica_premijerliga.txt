@@ -1,0 +1,100 @@
+1. Manchester City
+   Manchester City vs. Liverpool  5. april 2025, 18:30
+   Arsenal vs. Manchester City  12. april 2025, 14:00
+   Manchester City vs. Tottenham Hotspur  19. april 2025, 16:00
+
+2. Arsenal
+   Arsenal vs. Chelsea  4. april 2025, 20:00
+   Bournemouth vs. Arsenal  11. april 2025, 16:00
+   Arsenal vs. Aston Villa  18. april 2025, 20:00
+
+3. Liverpool
+   Liverpool vs. Newcastle United  6. april 2025, 14:30
+   Manchester City vs. Liverpool  13. april 2025, 18:30
+   Liverpool vs. West Ham United  20. april 2025, 16:00
+
+4. Tottenham Hotspur
+   Tottenham Hotspur vs. Manchester United  5. april 2025, 20:00
+   Chelsea vs. Tottenham Hotspur  12. april 2025, 14:00
+   Tottenham Hotspur vs. Wolverhampton  19. april 2025, 18:30
+
+5. Newcastle United
+   Newcastle United vs. Sheffield United  7. april 2025, 16:00
+   Liverpool vs. Newcastle United  14. april 2025, 18:30
+   Newcastle United vs. Burnley  21. april 2025, 14:30
+
+6. Aston Villa
+   Aston Villa vs. Crystal Palace  6. april 2025, 18:30
+   Leicester City vs. Aston Villa  13. april 2025, 16:00
+   Aston Villa vs. Everton  20. april 2025, 14:30
+
+7. Manchester United
+   Manchester United vs. West Ham United  4. april 2025, 16:00
+   Everton vs. Manchester United  11. april 2025, 18:30
+   Manchester United vs. Brentford  18. april 2025, 20:00
+
+8. West Ham United
+   West Ham United vs. Brighton  5. april 2025, 14:00
+   Manchester United vs. West Ham United  12. april 2025, 20:00
+   West Ham United vs. Fulham  19. april 2025, 16:00
+
+9. Brighton
+   Brighton vs. Wolverhampton  6. april 2025, 14:30
+   West Ham United vs. Brighton  13. april 2025, 16:00
+   Brighton vs. Luton Town  20. april 2025, 18:30
+
+10. Chelsea
+   Chelsea vs. Arsenal  4. april 2025, 20:00
+   Tottenham Hotspur vs. Chelsea  11. april 2025, 14:00
+   Chelsea vs. Crystal Palace  18. april 2025, 16:00
+
+11. Brentford
+   Brentford vs. Burnley  5. april 2025, 16:00
+   Manchester United vs. Brentford  12. april 2025, 14:30
+   Brentford vs. Aston Villa  19. april 2025, 18:30
+
+12. Fulham
+   Fulham vs. Bournemouth  6. april 2025, 16:00
+   West Ham United vs. Fulham  13. april 2025, 20:00
+   Fulham vs. Sheffield United  20. april 2025, 14:30
+
+13. Crystal Palace
+   Crystal Palace vs. Everton  5. april 2025, 18:30
+   Aston Villa vs. Crystal Palace  12. april 2025, 16:00
+   Crystal Palace vs. Manchester City  19. april 2025, 14:00
+
+14. Everton
+   Everton vs. Brighton  7. april 2025, 14:00
+   Crystal Palace vs. Everton  14. april 2025, 20:00
+   Everton vs. Sheffield United  21. april 2025, 16:00
+
+15. Bournemouth
+   Bournemouth vs. Arsenal  6. april 2025, 14:00
+   Everton vs. Bournemouth  13. april 2025, 18:30
+   Bournemouth vs. Manchester United  20. april 2025, 16:00
+
+16. Nottingham Forest
+   Nottingham Forest vs. Chelsea  5. april 2025, 16:00
+   Luton Town vs. Nottingham Forest  12. april 2025, 20:00
+   Nottingham Forest vs. Burnley  19. april 2025, 14:00
+
+17. Sheffield United
+   Sheffield United vs. Newcastle United  6. april 2025, 20:00
+   Brentford vs. Sheffield United  13. april 2025, 14:30
+   Sheffield United vs. Liverpool  20. april 2025, 18:30
+
+18. Wolverhampton
+   Wolverhampton vs. Brighton  6. april 2025, 18:30
+   Tottenham Hotspur vs. Wolverhampton  13. april 2025, 20:00
+   Wolverhampton vs. Manchester United  20. april 2025, 14:30
+
+19. Burnley
+   Burnley vs. Newcastle United  5. april 2025, 14:30
+   Nottingham Forest vs. Burnley  12. april 2025, 16:00
+   Burnley vs. West Ham United  19. april 2025, 20:00
+
+20. Luton Town
+   Luton Town vs. Chelsea  6. april 2025, 14:00
+   Nottingham Forest vs. Luton Town  13. april 2025, 16:00
+   Luton Town vs. Manchester City  20. april 2025, 18:30
+

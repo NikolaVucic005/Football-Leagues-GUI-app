@@ -1,0 +1,99 @@
+1. Levante
+   Levante vs. Alaves  5. april 2025, 20:00
+   Las Palmas vs. Levante  12. april 2025, 16:00
+   Levante vs. Granada  19. april 2025, 18:00
+
+2. Alaves
+   Alaves vs. Levante  6. april 2025, 16:30
+   Alaves vs. Huesca  13. april 2025, 18:00
+   Alaves vs. Eibar  20. april 2025, 14:00
+
+3. Las Palmas
+   Las Palmas vs. Levante  6. april 2025, 14:00
+   Las Palmas vs. Burgos  13. april 2025, 14:30
+   Las Palmas vs. Malaga  20. april 2025, 16:30
+
+4. Granada
+   Granada vs. Huesca  5. april 2025, 16:00
+   Granada vs. Tenerife  12. april 2025, 14:00
+   Levante vs. Granada  19. april 2025, 14:30
+
+5. Sporting Gijon
+   Sporting Gijon vs. Mirandes  6. april 2025, 14:30
+   Sporting Gijon vs. Albacete  13. april 2025, 16:30
+   Sporting Gijon vs. Oviedo  20. april 2025, 14:30
+
+6. Huesca
+   Huesca vs. Granada  6. april 2025, 16:30
+   Huesca vs. Alaves  13. april 2025, 20:00
+   Huesca vs. Malaga  20. april 2025, 18:30
+
+7. Mirandes
+   Mirandes vs. Sporting Gijon  5. april 2025, 18:00
+   Mirandes vs. Lugo  12. april 2025, 20:00
+   Mirandes vs. Ponferradina  19. april 2025, 14:00
+
+8. Lugo
+   Lugo vs. Mirandes  6. april 2025, 18:00
+   Lugo vs. Oviedo  13. april 2025, 14:30
+   Lugo vs. Albacete  20. april 2025, 16:00
+
+9. Ponferradina
+   Ponferradina vs. Cartagena  5. april 2025, 16:00
+   Ponferradina vs. Tenerife  12. april 2025, 14:00
+   Ponferradina vs. Zaragoza  19. april 2025, 18:30
+
+10. Cartagena
+   Cartagena vs. Ponferradina  6. april 2025, 14:30
+   Cartagena vs. Eibar  13. april 2025, 20:00
+   Cartagena vs. Malaga  20. april 2025, 14:00
+
+11. Tenerife
+   Tenerife vs. Granada  6. april 2025, 14:00
+   Tenerife vs. Ponferradina  13. april 2025, 16:30
+   Tenerife vs. Albacete  20. april 2025, 16:00
+
+12. Ibiza
+   Ibiza vs. Albacete  5. april 2025, 14:00
+   Ibiza vs. Sporting Gijon  12. april 2025, 16:00
+   Ibiza vs. Oviedo  19. april 2025, 14:30
+
+13. Oviedo
+   Oviedo vs. Lugo  6. april 2025, 16:00
+   Oviedo vs. Sporting Gijon  13. april 2025, 14:30
+   Oviedo vs. Zaragoza  20. april 2025, 18:30
+
+14. Albacete
+   Albacete vs. Lugo  6. april 2025, 18:30
+   Albacete vs. Ibiza  13. april 2025, 16:00
+   Albacete vs. Huesca  20. april 2025, 14:30
+
+15. Malaga
+   Malaga vs. Las Palmas  5. april 2025, 14:00
+   Malaga vs. Huesca  12. april 2025, 18:30
+   Malaga vs. Cartagena  19. april 2025, 16:00
+
+16. Burgos
+   Burgos vs. Zaragoza  6. april 2025, 14:00
+   Burgos vs. Eibar  13. april 2025, 16:00
+   Burgos vs. Oviedo  20. april 2025, 14:00
+
+17. Andorra
+   Andorra vs. Ponferradina  5. april 2025, 18:30
+   Andorra vs. Granada  12. april 2025, 14:30
+   Andorra vs. Ibiza  19. april 2025, 16:30
+
+18. Eibar
+   Eibar vs. Cartagena  6. april 2025, 14:30
+   Eibar vs. Andorra  13. april 2025, 20:00
+   Eibar vs. Levante  20. april 2025, 14:00
+
+19. Zaragoza
+   Zaragoza vs. Ponferradina  5. april 2025, 20:00
+   Zaragoza vs. Oviedo  12. april 2025, 14:30
+   Zaragoza vs. Burgos  19. april 2025, 18:00
+
+20. Lugo
+   Lugo vs. Oviedo  6. april 2025, 14:30
+   Lugo vs. Albacete  13. april 2025, 16:00
+   Lugo vs. Andorra  20. april 2025, 18:00

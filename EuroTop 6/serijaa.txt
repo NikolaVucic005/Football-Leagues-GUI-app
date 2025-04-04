@@ -1,0 +1,20 @@
+1. Napoli
+2. Juventus
+3. Inter Milan
+4. AC Milan
+5. Roma
+6. Lazio
+7. Atalanta
+8. Fiorentina
+9. Torino
+10. Bologna
+11. Monza
+12. Empoli
+13. Salernitana
+14. Lecce
+15. Udinese
+16. Verona
+17. Spezia
+18. Cagliari
+19. Sampdoria
+20. Frosinone

@@ -1,0 +1,99 @@
+1. Genoa
+   Genoa vs. Cagliari  5. april 2025, 20:00
+   Parma vs. Genoa  12. april 2025, 14:00
+   Genoa vs. Lecce  19. april 2025, 16:30
+
+2. Cagliari
+   Cagliari vs. Genoa  6. april 2025, 14:30
+   Cagliari vs. Reggina  13. april 2025, 16:30
+   Cagliari vs. Spal  20. april 2025, 18:00
+
+3. Parma
+   Parma vs. Genoa  6. april 2025, 14:30
+   Parma vs. Frosinone  13. april 2025, 14:00
+   Pisa vs. Parma  20. april 2025, 14:30
+
+4. Bari
+   Bari vs. Brescia  5. april 2025, 14:00
+   Bari vs. Ternana  12. april 2025, 16:30
+   Bari vs. Benevento  20. april 2025, 18:00
+
+5. Brescia
+   Brescia vs. Bari  6. april 2025, 18:00
+   Brescia vs. Venezia  13. april 2025, 14:00
+   Brescia vs. Ascoli  20. april 2025, 16:00
+
+6. Reggina
+   Reggina vs. Cagliari  6. april 2025, 16:30
+   Reggina vs. Perugia  13. april 2025, 14:00
+   Reggina vs. Frosinone  20. april 2025, 14:30
+
+7. Pisa
+   Pisa vs. Parma  6. april 2025, 20:00
+   Pisa vs. Venezia  13. april 2025, 14:30
+   Pisa vs. Modena  20. april 2025, 16:30
+
+8. Venezia
+   Venezia vs. Brescia  5. april 2025, 16:00
+   Venezia vs. Pisa  12. april 2025, 16:30
+   Venezia vs. Ascoli  20. april 2025, 18:30
+
+9. Ascoli
+   Ascoli vs. Venezia  6. april 2025, 14:00
+   Ascoli vs. Spal  13. april 2025, 18:00
+   Ascoli vs. Palermo  20. april 2025, 14:00
+
+10. Perugia
+   Perugia vs. Reggina  6. april 2025, 14:30
+   Perugia vs. Lecce  13. april 2025, 16:30
+   Perugia vs. Modena  20. april 2025, 14:00
+
+11. Spal
+   Spal vs. Cagliari  6. april 2025, 14:00
+   Spal vs. Ascoli  13. april 2025, 14:30
+   Spal vs. Benevento  20. april 2025, 14:30
+
+12. Frosinone
+   Frosinone vs. Parma  6. april 2025, 16:00
+   Frosinone vs. Reggina  13. april 2025, 18:30
+   Frosinone vs. Lecce  20. april 2025, 16:00
+
+13. Lecce
+   Lecce vs. Genoa  6. april 2025, 20:00
+   Lecce vs. Perugia  13. april 2025, 14:30
+   Frosinone vs. Lecce  20. april 2025, 18:30
+
+14. Ternana
+   Ternana vs. Bari  6. april 2025, 14:30
+   Ternana vs. Modena  13. april 2025, 16:30
+   Ternana vs. Como  20. april 2025, 18:00
+
+15. Cosenza
+   Cosenza vs. Benevento  5. april 2025, 16:00
+   Cosenza vs. Frosinone  12. april 2025, 14:00
+   Cosenza vs. Lecce  19. april 2025, 14:00
+
+16. Benevento
+   Benevento vs. Bari  6. april 2025, 14:00
+   Benevento vs. Cosenza  13. april 2025, 18:30
+   Benevento vs. Spal  20. april 2025, 16:00
+
+17. Como
+   Como vs. Ternana  6. april 2025, 18:30
+   Como vs. Palermo  13. april 2025, 16:00
+   Como vs. Cosenza  20. april 2025, 14:00
+
+18. Sudtirol
+   Sudtirol vs. Modena  5. april 2025, 14:30
+   Sudtirol vs. Pisa  13. april 2025, 20:00
+   Sudtirol vs. Spal  20. april 2025, 14:30
+
+19. Modena
+   Modena vs. Pisa  6. april 2025, 14:00
+   Modena vs. Ternana  13. april 2025, 14:30
+   Modena vs. Sudtirol  20. april 2025, 18:30
+
+20. Palermo
+   Palermo vs. Ascoli  6. april 2025, 16:30
+   Palermo vs. Como  13. april 2025, 18:30
+   Palermo vs. Brescia  20. april 2025, 14:30

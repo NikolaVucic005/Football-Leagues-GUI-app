@@ -1,0 +1,119 @@
+1. Sheffield United
+   Sheffield United vs. Ipswich Town  5. april 2025, 16:00
+   Leicester City vs. Sheffield United  12. april 2025, 14:30
+   Sheffield United vs. Southampton  19. april 2025, 18:00
+
+2. Ipswich Town
+   Ipswich Town vs. Sheffield United  6. april 2025, 14:30
+   Ipswich Town vs. Middlesbrough  13. april 2025, 16:00
+   Ipswich Town vs. Sunderland  20. april 2025, 14:00
+
+3. Leicester City
+   Leicester City vs. Watford  5. april 2025, 18:30
+   Leicester City vs. Sheffield United  12. april 2025, 14:30
+   Leicester City vs. Norwich City  19. april 2025, 16:00
+
+4. Southampton
+   Southampton vs. Coventry City  6. april 2025, 20:00
+   Southampton vs. Watford  13. april 2025, 18:30
+   Southampton vs. Blackburn Rovers  20. april 2025, 16:00
+
+5. Middlesbrough
+   Middlesbrough vs. Sunderland  5. april 2025, 14:00
+   Middlesbrough vs. Stoke City  12. april 2025, 16:00
+   Middlesbrough vs. Hull City  19. april 2025, 18:30
+
+6. Sunderland
+   Sunderland vs. Ipswich Town  6. april 2025, 16:00
+   Sunderland vs. Middlesbrough  13. april 2025, 14:30
+   Sunderland vs. Rotherham United  20. april 2025, 14:00
+
+7. Norwich City
+   Norwich City vs. Stoke City  5. april 2025, 20:00
+   Norwich City vs. Leicester City  12. april 2025, 16:00
+   Norwich City vs. Swansea City  19. april 2025, 14:30
+
+8. Coventry City
+   Coventry City vs. Southampton  6. april 2025, 14:30
+   Coventry City vs. Hull City  13. april 2025, 20:00
+   Coventry City vs. Rotherham United  20. april 2025, 18:30
+
+9. Stoke City
+   Stoke City vs. Swansea City  5. april 2025, 18:30
+   Stoke City vs. Middlesbrough  12. april 2025, 14:00
+   Stoke City vs. Watford  19. april 2025, 14:00
+
+10. Swansea City
+   Swansea City vs. Norwich City  6. april 2025, 14:00
+   Swansea City vs. Stoke City  13. april 2025, 16:30
+   Swansea City vs. Ipswich Town  20. april 2025, 16:00
+
+11. Blackburn Rovers
+   Blackburn Rovers vs. Watford  6. april 2025, 14:30
+   Blackburn Rovers vs. Southampton  13. april 2025, 14:00
+   Blackburn Rovers vs. Cardiff City  20. april 2025, 18:00
+
+12. Hull City
+   Hull City vs. Middlesbrough  5. april 2025, 16:30
+   Hull City vs. Cardiff City  12. april 2025, 20:00
+   Hull City vs. Reading  19. april 2025, 14:30
+
+13. Cardiff City
+   Cardiff City vs. Blackburn Rovers  6. april 2025, 16:00
+   Cardiff City vs. Hull City  13. april 2025, 18:30
+   Cardiff City vs. Watford  20. april 2025, 20:00
+
+14. Watford
+   Watford vs. Leicester City  5. april 2025, 18:30
+   Watford vs. Southampton  13. april 2025, 20:00
+   Watford vs. Cardiff City  20. april 2025, 16:00
+
+15. Birmingham City
+   Birmingham City vs. Millwall  6. april 2025, 14:00
+   Birmingham City vs. Preston North End  13. april 2025, 16:00
+   Birmingham City vs. Stoke City  20. april 2025, 14:00
+
+16. Millwall
+   Millwall vs. Birmingham City  5. april 2025, 14:30
+   Millwall vs. Stoke City  12. april 2025, 14:30
+   Millwall vs. Norwich City  19. april 2025, 18:00
+
+17. West Bromwich Albion
+   West Bromwich Albion vs. Rotherham United  6. april 2025, 20:00
+   West Bromwich Albion vs. Preston North End  13. april 2025, 14:30
+   West Bromwich Albion vs. Reading  20. april 2025, 16:30
+
+18. Leeds United
+   Leeds United vs. Stoke City  5. april 2025, 14:00
+   Leeds United vs. Middlesbrough  12. april 2025, 20:00
+   Leeds United vs. Watford  19. april 2025, 16:00
+
+19. Rotherham United
+   Rotherham United vs. Coventry City  6. april 2025, 14:00
+   Rotherham United vs. Sunderland  13. april 2025, 14:30
+   Rotherham United vs. West Bromwich Albion  20. april 2025, 14:00
+
+20. Preston North End
+   Preston North End vs. Birmingham City  5. april 2025, 16:30
+   Preston North End vs. West Bromwich Albion  12. april 2025, 18:30
+   Preston North End vs. Hull City  19. april 2025, 14:30
+
+21. Queens Park Rangers
+   Queens Park Rangers vs. Millwall  6. april 2025, 16:00
+   Queens Park Rangers vs. Cardiff City  13. april 2025, 20:00
+   Queens Park Rangers vs. Reading  20. april 2025, 14:00
+
+22. Reading
+   Reading vs. Hull City  5. april 2025, 18:30
+   Reading vs. Queens Park Rangers  12. april 2025, 14:30
+   Reading vs. West Bromwich Albion  19. april 2025, 16:00
+
+23. Swansea City
+   Swansea City vs. Norwich City  6. april 2025, 14:00
+   Swansea City vs. Stoke City  13. april 2025, 16:30
+   Swansea City vs. Ipswich Town  20. april 2025, 16:00
+
+24. Stoke City
+   Stoke City vs. Swansea City  5. april 2025, 18:30
+   Stoke City vs. Middlesbrough  12. april 2025, 14:00
+   Stoke City vs. Watford  19. april 2025, 14:00

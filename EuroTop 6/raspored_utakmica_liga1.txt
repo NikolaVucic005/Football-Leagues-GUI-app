@@ -1,0 +1,99 @@
+1. Paris Saint-Germain
+   Paris Saint-Germain vs. Olympique Marseille - 5. april 2025, 16:00
+   AS Monaco vs. Paris Saint-Germain - 12. april 2025, 14:30
+   Paris Saint-Germain vs. Lyon - 19. april 2025, 18:00
+
+2. Olympique Marseille
+   Olympique Marseille vs. Paris Saint-Germain - 6. april 2025, 14:30
+   Olympique Marseille vs. AS Monaco - 13. april 2025, 16:00
+   Olympique Marseille vs. Lille - 20. april 2025, 14:00
+
+3. AS Monaco
+   AS Monaco vs. Paris Saint-Germain - 5. april 2025, 18:30
+   AS Monaco vs. Lyon - 12. april 2025, 16:00
+   AS Monaco vs. Rennes - 19. april 2025, 14:30
+
+4. Lyon
+   Lyon vs. Paris Saint-Germain - 6. april 2025, 14:00
+   Lyon vs. Olympique Marseille - 13. april 2025, 16:30
+   Lyon vs. Toulouse - 20. april 2025, 18:00
+
+5. Lille
+   Lille vs. AS Monaco - 5. april 2025, 14:30
+   Lille vs. Rennes - 12. april 2025, 14:30
+   Lille vs. Montpellier - 19. april 2025, 18:00
+
+6. Rennes
+   Rennes vs. Lille - 5. april 2025, 16:00
+   Rennes vs. Toulouse - 12. april 2025, 14:30
+   Rennes vs. Lyon - 19. april 2025, 14:00
+
+7. Nice
+   Nice vs. Lens - 6. april 2025, 14:30
+   Nice vs. Montpellier - 13. april 2025, 16:00
+   Nice vs. Brest - 20. april 2025, 14:00
+
+8. Lens
+   Lens vs. Nice - 5. april 2025, 18:30
+   Lens vs. Toulouse - 12. april 2025, 16:00
+   Lens vs. Rennes - 19. april 2025, 18:00
+
+9. Montpellier
+   Montpellier vs. Lille - 6. april 2025, 14:30
+   Montpellier vs. Nice - 13. april 2025, 16:30
+   Montpellier vs. Lyon - 20. april 2025, 14:00
+
+10. Brest
+   Brest vs. Toulouse - 5. april 2025, 14:00
+   Brest vs. Lens - 12. april 2025, 14:00
+   Brest vs. Reims - 19. april 2025, 18:00
+
+11. Clermont Foot
+   Clermont Foot vs. Lyon - 6. april 2025, 16:00
+   Clermont Foot vs. Montpellier - 13. april 2025, 14:00
+   Clermont Foot vs. Angers - 20. april 2025, 16:00
+
+12. Toulouse
+   Toulouse vs. Brest - 6. april 2025, 14:00
+   Toulouse vs. Lyon - 13. april 2025, 18:30
+   Toulouse vs. Lens - 20. april 2025, 14:30
+
+13. Nantes
+   Nantes vs. Lyon - 5. april 2025, 14:30
+   Nantes vs. Angers - 12. april 2025, 14:30
+   Nantes vs. Strasbourg - 19. april 2025, 14:00
+
+14. Strasbourg
+   Strasbourg vs. Nantes - 6. april 2025, 16:30
+   Strasbourg vs. Brest - 13. april 2025, 16:00
+   Strasbourg vs. Toulouse - 20. april 2025, 16:30
+
+15. Lorient
+   Lorient vs. Reims - 5. april 2025, 16:00
+   Lorient vs. Brest - 12. april 2025, 16:00
+   Lorient vs. Lille - 19. april 2025, 14:30
+
+16. Reims
+   Reims vs. Lorient - 6. april 2025, 14:00
+   Reims vs. Montpellier - 13. april 2025, 16:00
+   Reims vs. Nantes - 20. april 2025, 14:30
+
+17. Angers
+   Angers vs. Nantes - 6. april 2025, 14:30
+   Angers vs. Clermont Foot - 13. april 2025, 16:30
+   Angers vs. Strasbourg - 20. april 2025, 16:00
+
+18. Ajaccio
+   Ajaccio vs. Lorient - 6. april 2025, 14:00
+   Ajaccio vs. Reims - 13. april 2025, 16:00
+   Ajaccio vs. Toulouse - 20. april 2025, 14:30
+
+19. Le Havre
+   Le Havre vs. Brest - 6. april 2025, 14:00
+   Le Havre vs. Lyon - 13. april 2025, 14:30
+   Le Havre vs. Angers - 20. april 2025, 16:30
+
+20. Troyes
+   Troyes vs. Nice - 6. april 2025, 14:30
+   Troyes vs. Toulouse - 13. april 2025, 16:00
+   Troyes vs. Lyon - 20. april 2025, 18:00

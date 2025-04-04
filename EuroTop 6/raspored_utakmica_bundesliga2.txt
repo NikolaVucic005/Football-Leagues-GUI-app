@@ -1,0 +1,89 @@
+1. Hamburg
+   Hamburg vs. Heidenheim  5. april 2025, 16:00
+   Schalke 04 vs. Hamburg  12. april 2025, 14:30
+   Hamburg vs. Fortuna Dusseldorf  19. april 2025, 18:00
+
+2. Heidenheim
+   Heidenheim vs. Hamburg  6. april 2025, 14:30
+   Heidenheim vs. Schalke 04  13. april 2025, 16:30
+   Heidenheim vs. Fortuna Dusseldorf  20. april 2025, 14:00
+
+3. Schalke 04
+   Schalke 04 vs. Hamburg  6. april 2025, 16:00
+   Schalke 04 vs. Heidenheim  13. april 2025, 14:30
+   Schalke 04 vs. St. Pauli  20. april 2025, 14:30
+
+4. Fortuna Dusseldorf
+   Fortuna Dusseldorf vs. Paderborn  6. april 2025, 14:00
+   Fortuna Dusseldorf vs. St. Pauli  13. april 2025, 16:30
+   Fortuna Dusseldorf vs. Darmstadt 98  20. april 2025, 16:00
+
+5. St. Pauli
+   St. Pauli vs. Karlsruhe  5. april 2025, 14:30
+   St. Pauli vs. Fortuna Dusseldorf  12. april 2025, 16:30
+   St. Pauli vs. Hannover 96  19. april 2025, 18:30
+
+6. Darmstadt 98
+   Darmstadt 98 vs. Karlsruhe  6. april 2025, 14:30
+   Darmstadt 98 vs. Fortuna Dusseldorf  13. april 2025, 14:30
+   Darmstadt 98 vs. Paderborn  20. april 2025, 16:30
+
+7. Karlsruhe
+   Karlsruhe vs. St. Pauli  5. april 2025, 18:30
+   Karlsruhe vs. Darmstadt 98  12. april 2025, 14:00
+   Karlsruhe vs. Nurnberg  19. april 2025, 14:00
+
+8. Paderborn
+   Paderborn vs. Fortuna Dusseldorf  5. april 2025, 14:00
+   Paderborn vs. Darmstadt 98  12. april 2025, 16:00
+   Paderborn vs. Hansa Rostock  19. april 2025, 18:00
+
+9. Nurnberg
+   Nurnberg vs. Karlsruhe  6. april 2025, 14:00
+   Nurnberg vs. Hansa Rostock  13. april 2025, 14:30
+   Nurnberg vs. Jahn Regensburg  20. april 2025, 14:30
+
+10. Hansa Rostock
+   Hansa Rostock vs. Paderborn  6. april 2025, 14:30
+   Hansa Rostock vs. Nurnberg  13. april 2025, 16:00
+   Hansa Rostock vs. Ingolstadt  20. april 2025, 16:30
+
+11. Jahn Regensburg
+   Jahn Regensburg vs. Kaiserslautern  6. april 2025, 16:00
+   Jahn Regensburg vs. Ingolstadt  13. april 2025, 14:00
+   Jahn Regensburg vs. Sandhausen  20. april 2025, 14:00
+
+12. Kaiserslautern
+   Kaiserslautern vs. Jahn Regensburg  5. april 2025, 18:30
+   Kaiserslautern vs. Magdeburg  13. april 2025, 16:30
+   Kaiserslautern vs. Braunschweig  20. april 2025, 14:30
+
+13. Arminia Bielefeld
+   Arminia Bielefeld vs. Ingolstadt  6. april 2025, 14:00
+   Arminia Bielefeld vs. Braunschweig  13. april 2025, 14:30
+   Arminia Bielefeld vs. Hamburg  20. april 2025, 18:00
+
+14. Magdeburg
+   Magdeburg vs. Kaiserslautern  6. april 2025, 14:30
+   Magdeburg vs. Arminia Bielefeld  13. april 2025, 14:00
+   Magdeburg vs. Sandhausen  20. april 2025, 14:30
+
+15. Ingolstadt
+   Ingolstadt vs. Arminia Bielefeld  5. april 2025, 16:00
+   Ingolstadt vs. Sandhausen  12. april 2025, 18:30
+   Ingolstadt vs. Magdeburg  19. april 2025, 14:00
+
+16. Sandhausen
+   Sandhausen vs. Jahn Regensburg  6. april 2025, 14:30
+   Sandhausen vs. Ingolstadt  13. april 2025, 16:00
+   Sandhausen vs. Braunschweig  20. april 2025, 16:00
+
+17. Braunschweig
+   Braunschweig vs. Kaiserslautern  6. april 2025, 16:30
+   Braunschweig vs. Arminia Bielefeld  13. april 2025, 18:00
+   Braunschweig vs. Sandhausen  20. april 2025, 18:30
+
+18. Hannover 96
+   Hannover 96 vs. St. Pauli  6. april 2025, 14:00
+   Hannover 96 vs. Karlsruhe  13. april 2025, 14:00
+   Hannover 96 vs. Fortuna Dusseldorf  20. april 2025, 14:30

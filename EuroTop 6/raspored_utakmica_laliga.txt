@@ -1,0 +1,99 @@
+1. Real Madrid
+   Real Madrid vs. Barcelona  5. april 2025, 20:00
+   Atletico Madrid vs. Real Madrid  12. april 2025, 18:30
+   Real Madrid vs. Sevilla  19. april 2025, 16:00
+
+2. Barcelona
+   Barcelona vs. Real Madrid  6. april 2025, 20:00
+   Barcelona vs. Real Betis  13. april 2025, 14:30
+   Rayo Vallecano vs. Barcelona  20. april 2025, 14:00
+
+3. Atletico Madrid
+   Atletico Madrid vs. Real Madrid  5. april 2025, 16:00
+   Valencia vs. Atletico Madrid  12. april 2025, 16:00
+   Atletico Madrid vs. Girona  19. april 2025, 14:30
+
+4. Real Sociedad
+   Real Sociedad vs. Sevilla  6. april 2025, 16:00
+   Real Sociedad vs. Celta Vigo  13. april 2025, 20:00
+   Getafe vs. Real Sociedad  20. april 2025, 14:30
+
+5. Real Betis
+   Real Betis vs. Barcelona  6. april 2025, 18:30
+   Real Betis vs. Almeria  13. april 2025, 14:00
+   Real Betis vs. Mallorca  20. april 2025, 16:30
+
+6. Rayo Vallecano
+   Rayo Vallecano vs. Girona  5. april 2025, 14:30
+   Rayo Vallecano vs. Espanyol  12. april 2025, 20:00
+   Rayo Vallecano vs. Barcelona  19. april 2025, 14:00
+
+7. Girona
+   Girona vs. Rayo Vallecano  6. april 2025, 14:00
+   Girona vs. Villarreal  13. april 2025, 16:00
+   Atletico Madrid vs. Girona  20. april 2025, 18:00
+
+8. Villarreal
+   Villarreal vs. Valencia  5. april 2025, 20:00
+   Villarreal vs. Girona  12. april 2025, 14:30
+   Villarreal vs. Celta Vigo  19. april 2025, 18:30
+
+9. Athletic Bilbao
+   Athletic Bilbao vs. Mallorca  6. april 2025, 14:30
+   Athletic Bilbao vs. Real Sociedad  13. april 2025, 16:00
+   Athletic Bilbao vs. Valladolid  20. april 2025, 14:30
+
+10. Valencia
+   Valencia vs. Atletico Madrid  5. april 2025, 18:30
+   Valencia vs. Villarreal  12. april 2025, 16:30
+   Valencia vs. Espanyol  19. april 2025, 14:00
+
+11. Sevilla
+   Sevilla vs. Real Madrid  6. april 2025, 14:00
+   Sevilla vs. Celta Vigo  13. april 2025, 18:30
+   Real Sociedad vs. Sevilla  20. april 2025, 16:00
+
+12. Almeria
+   Almeria vs. Real Betis  6. april 2025, 18:30
+   Almeria vs. Getafe  13. april 2025, 14:00
+   Almeria vs. Valladolid  20. april 2025, 14:30
+
+13. Celta Vigo
+   Celta Vigo vs. Sevilla  5. april 2025, 16:00
+   Celta Vigo vs. Real Sociedad  12. april 2025, 14:30
+   Villarreal vs. Celta Vigo  19. april 2025, 18:00
+
+14. Getafe
+   Getafe vs. Real Sociedad  6. april 2025, 16:30
+   Getafe vs. Almeria  13. april 2025, 18:30
+   Getafe vs. Cadiz  20. april 2025, 14:00
+
+15. Osasuna
+   Osasuna vs. Mallorca  5. april 2025, 18:00
+   Osasuna vs. Espanyol  12. april 2025, 14:00
+   Osasuna vs. Granada  19. april 2025, 16:30
+
+16. Mallorca
+   Mallorca vs. Athletic Bilbao  6. april 2025, 20:00
+   Mallorca vs. Osasuna  13. april 2025, 16:00
+   Mallorca vs. Real Betis  20. april 2025, 18:30
+
+17. Cadiz
+   Cadiz vs. Getafe  6. april 2025, 14:30
+   Cadiz vs. Espanyol  13. april 2025, 16:00
+   Cadiz vs. Granada  20. april 2025, 16:00
+
+18. Granada
+   Granada vs. Osasuna  5. april 2025, 14:00
+   Granada vs. Cadiz  12. april 2025, 18:30
+   Granada vs. Espanyol  19. april 2025, 14:30
+
+19. Valladolid
+   Valladolid vs. Athletic Bilbao  6. april 2025, 16:00
+   Valladolid vs. Almeria  13. april 2025, 16:30
+   Valladolid vs. Rayo Vallecano  20. april 2025, 14:00
+
+20. Espanyol
+   Espanyol vs. Rayo Vallecano  6. april 2025, 16:00
+   Espanyol vs. Valencia  13. april 2025, 20:00
+   Granada vs. Espanyol  20. april 2025, 14:30

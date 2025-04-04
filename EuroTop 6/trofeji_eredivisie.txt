@@ -1,0 +1,107 @@
+1. Ajax
+   Eredivisie titule: 35
+   KNVB Cup: 20
+   Johan Cruyff Shield: 9
+   UEFA Lige sampiona: 4
+
+2. PSV Eindhoven
+   Eredivisie titule: 24
+   KNVB Cup: 9
+   Johan Cruyff Shield: 8
+   UEFA Lige sampiona: 1
+
+3. Feyenoord
+   Eredivisie titule: 15
+   KNVB Cup: 12
+   Johan Cruyff Shield: 4
+   UEFA Lige sampiona: 1
+
+4. AZ Alkmaar
+   Eredivisie titule: 2
+   KNVB Cup: 4
+   Johan Cruyff Shield: 0
+   UEFA Lige sampiona: 0
+
+5. Vitesse
+   Eredivisie titule: 0
+   KNVB Cup: 1
+   Johan Cruyff Shield: 0
+   UEFA Lige sampiona: 0
+
+6. Utrecht
+   Eredivisie titule: 0
+   KNVB Cup: 2
+   Johan Cruyff Shield: 0
+   UEFA Lige sampiona: 0
+
+7. Twente
+   Eredivisie titule: 3
+   KNVB Cup: 2
+   Johan Cruyff Shield: 0
+   UEFA Lige sampiona: 0
+
+8. Groningen
+   Eredivisie titule: 1
+   KNVB Cup: 2
+   Johan Cruyff Shield: 0
+   UEFA Lige sampiona: 0
+
+9. Heerenveen
+   Eredivisie titule: 0
+   KNVB Cup: 0
+   Johan Cruyff Shield: 0
+   UEFA Lige sampiona: 0
+
+10. Fortuna Sittard
+    Eredivisie titule: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Lige sampiona: 0
+
+11. RKC Waalwijk
+    Eredivisie titule: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Lige sampiona: 0
+
+12. Willem II
+    Eredivisie titule: 0
+    KNVB Cup: 2
+    Johan Cruyff Shield: 0
+    UEFA Lige sampiona: 0
+
+13. Sparta Rotterdam
+    Eredivisie titule: 2
+    KNVB Cup: 2
+    Johan Cruyff Shield: 0
+    UEFA Lige sampiona: 0
+
+14. NEC Nijmegen
+    Eredivisie titule: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Lige sampiona: 0
+
+15. Volendam
+    Eredivisie titule: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Lige sampiona: 0
+
+16. Cambuur
+    Eredivisie titule: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Lige sampiona: 0
+
+17. Excelsior
+    Eredivisie titule: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Lige sampiona: 0
+
+18. Emmen
+    Eredivisie titule: 0
+    KNVB Cup: 0
+    Johan Cruyff Shield: 0
+    UEFA Lige sampiona: 0

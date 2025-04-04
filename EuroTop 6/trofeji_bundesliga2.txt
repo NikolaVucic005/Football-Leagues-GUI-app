@@ -1,0 +1,107 @@
+1. Hamburg
+   2. Bundesliga titule: 3
+   DFB-Pokal: 3
+   Supercup: 0
+   UEFA Lige sampiona: 0
+
+2. Heidenheim
+   2. Bundesliga titule: 0
+   DFB-Pokal: 0
+   Supercup: 0
+   UEFA Lige sampiona: 0
+
+3. Schalke 04
+   2. Bundesliga titule: 1
+   DFB-Pokal: 5
+   Supercup: 1
+   UEFA Lige sampiona: 1
+
+4. Fortuna Dusseldorf
+   2. Bundesliga titule: 2
+   DFB-Pokal: 3
+   Supercup: 0
+   UEFA Lige sampiona: 0
+
+5. St. Pauli
+   2. Bundesliga titule: 0
+   DFB-Pokal: 0
+   Supercup: 0
+   UEFA Lige sampiona: 0
+
+6. Darmstadt 98
+   2. Bundesliga titule: 2
+   DFB-Pokal: 0
+   Supercup: 0
+   UEFA Lige sampiona: 0
+
+7. Karlsruhe
+   2. Bundesliga titule: 2
+   DFB-Pokal: 2
+   Supercup: 0
+   UEFA Lige sampiona: 0
+
+8. Paderborn
+   2. Bundesliga titule: 1
+   DFB-Pokal: 0
+   Supercup: 0
+   UEFA Lige sampiona: 0
+
+9. Nurnberg
+   2. Bundesliga titule: 1
+   DFB-Pokal: 4
+   Supercup: 0
+   UEFA Lige sampiona: 0
+
+10. Hansa Rostock
+    2. Bundesliga titule: 0
+    DFB-Pokal: 0
+    Supercup: 0
+    UEFA Lige sampiona: 0
+
+11. Jahn Regensburg
+    2. Bundesliga titule: 0
+    DFB-Pokal: 0
+    Supercup: 0
+    UEFA Lige sampiona: 0
+
+12. Kaiserslautern
+    2. Bundesliga titule: 0
+    DFB-Pokal: 2
+    Supercup: 1
+    UEFA Lige sampiona: 0
+
+13. Arminia Bielefeld
+    2. Bundesliga titule: 0
+    DFB-Pokal: 0
+    Supercup: 0
+    UEFA Lige sampiona: 0
+
+14. Magdeburg
+    2. Bundesliga titule: 0
+    DFB-Pokal: 1
+    Supercup: 0
+    UEFA Lige sampiona: 0
+
+15. Ingolstadt
+    2. Bundesliga titule: 0
+    DFB-Pokal: 0
+    Supercup: 0
+    UEFA Lige sampiona: 0
+
+16. Sandhausen
+    2. Bundesliga titule: 0
+    DFB-Pokal: 0
+    Supercup: 0
+    UEFA Lige sampiona: 0
+
+17. Braunschweig
+    2. Bundesliga titule: 0
+    DFB-Pokal: 0
+    Supercup: 0
+    UEFA Lige sampiona: 0
+
+18. Hannover 96
+    2. Bundesliga titule: 1
+    DFB-Pokal: 2
+    Supercup: 0
+    UEFA Lige sampiona: 0

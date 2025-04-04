@@ -1,0 +1,119 @@
+1. Napoli
+   Serie A titule: 3
+   Coppa Italia: 6
+   Supercoppa Italiana: 2
+   UEFA Lige sampiona: 0
+
+2. Juventus
+   Serie A titule: 36
+   Coppa Italia: 14
+   Supercoppa Italiana: 9
+   UEFA Lige sampiona: 2
+
+3. Inter Milan
+   Serie A titule: 19
+   Coppa Italia: 8
+   Supercoppa Italiana: 7
+   UEFA Lige sampiona: 3
+
+4. AC Milan
+   Serie A titule: 19
+   Coppa Italia: 5
+   Supercoppa Italiana: 7
+   UEFA Lige sampiona: 7
+
+5. Roma
+   Serie A titule: 3
+   Coppa Italia: 9
+   Supercoppa Italiana: 2
+   UEFA Lige sampiona: 0
+
+6. Lazio
+   Serie A titule: 2
+   Coppa Italia: 7
+   Supercoppa Italiana: 5
+   UEFA Lige sampiona: 0
+
+7. Atalanta
+   Serie A titule: 0
+   Coppa Italia: 0
+   Supercoppa Italiana: 0
+   UEFA Lige sampiona: 0
+
+8. Fiorentina
+   Serie A titule: 2
+   Coppa Italia: 6
+   Supercoppa Italiana: 0
+   UEFA Lige sampiona: 0
+
+9. Torino
+   Serie A titule: 7
+   Coppa Italia: 5
+   Supercoppa Italiana: 0
+   UEFA Lige sampiona: 0
+
+10. Bologna
+    Serie A titule: 7
+    Coppa Italia: 2
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+11. Monza
+    Serie A titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+12. Empoli
+    Serie A titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+13. Salernitana
+    Serie A titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+14. Lecce
+    Serie A titule: 0
+    Coppa Italia: 1
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+15. Udinese
+    Serie A titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+16. Verona
+    Serie A titule: 1
+    Coppa Italia: 0
+    Supercoppa Italiana: 1
+    UEFA Lige sampiona: 0
+
+17. Spezia
+    Serie A titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+18. Cagliari
+    Serie A titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+19. Sampdoria
+    Serie A titule: 1
+    Coppa Italia: 4
+    Supercoppa Italiana: 1
+    UEFA Lige sampiona: 0
+
+20. Frosinone
+    Serie A titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0

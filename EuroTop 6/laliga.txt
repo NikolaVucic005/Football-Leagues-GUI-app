@@ -1,0 +1,20 @@
+1. Real Madrid
+2. Barcelona
+3. Atletico Madrid
+4. Real Sociedad
+5. Real Betis
+6. Rayo Vallecano
+7. Girona
+8. Villarreal
+9. Athletic Bilbao
+10. Valencia
+11. Sevilla
+12. Almeria
+13. Celta Vigo
+14. Getafe
+15. Osasuna
+16. Mallorca
+17. Cadiz
+18. Granada
+19. Valladolid
+20. Espanyol

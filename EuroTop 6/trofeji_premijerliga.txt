@@ -1,0 +1,119 @@
+1. Manchester City
+   Premier League titule: 9
+   FA Cup: 6
+   EFL Cup: 8
+   UEFA Lige sampiona: 1
+
+2. Arsenal
+   Premier League titule: 3
+   FA Cup: 14
+   EFL Cup: 2
+   UEFA Lige sampiona: 0
+
+3. Liverpool
+   Premier League titule: 1
+   FA Cup: 8
+   EFL Cup: 9
+   UEFA Lige sampiona: 6
+
+4. Tottenham Hotspur
+   Premier League titule: 0
+   FA Cup: 8
+   EFL Cup: 4
+   UEFA Lige sampiona: 0
+
+5. Newcastle United
+   Premier League titule: 0
+   FA Cup: 6
+   EFL Cup: 0
+   UEFA Lige sampiona: 0
+
+6. Aston Villa
+   Premier League titule: 1
+   FA Cup: 7
+   EFL Cup: 5
+   UEFA Lige sampiona: 1
+
+7. Manchester United
+   Premier League titule: 20
+   FA Cup: 12
+   EFL Cup: 4
+   UEFA Lige sampiona: 3
+
+8. West Ham United
+   Premier League titule: 0
+   FA Cup: 0
+   EFL Cup: 1
+   UEFA Lige sampiona: 0
+
+9. Brighton
+   Premier League titule: 0
+   FA Cup: 0
+   EFL Cup: 0
+   UEFA Lige sampiona: 0
+
+10. Chelsea
+    Premier League titule: 6
+    FA Cup: 8
+    EFL Cup: 5
+    UEFA Lige sampiona: 2
+
+11. Brentford
+    Premier League titule: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+12. Fulham
+    Premier League titule: 0
+    FA Cup: 0
+    EFL Cup: 2
+    UEFA Lige sampiona: 0
+
+13. Crystal Palace
+    Premier League titule: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+14. Everton
+    Premier League titule: 9
+    FA Cup: 5
+    EFL Cup: 2
+    UEFA Lige sampiona: 0
+
+15. Bournemouth
+    Premier League titule: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+16. Nottingham Forest
+    Premier League titule: 1
+    FA Cup: 2
+    EFL Cup: 4
+    UEFA Lige sampiona: 2
+
+17. Sheffield United
+    Premier League titule: 0
+    FA Cup: 1
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+18. Wolverhampton
+    Premier League titule: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+19. Burnley
+    Premier League titule: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+20. Luton Town
+    Premier League titule: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0

@@ -1,0 +1,20 @@
+1. Manchester City
+2. Arsenal
+3. Liverpool
+4. Tottenham Hotspur
+5. Newcastle United
+6. Aston Villa
+7. Manchester United
+8. West Ham United
+9. Brighton
+10. Chelsea
+11. Brentford
+12. Fulham
+13. Crystal Palace
+14. Everton
+15. Bournemouth
+16. Nottingham Forest
+17. Sheffield United
+18. Wolverhampton
+19. Burnley
+20. Luton Town

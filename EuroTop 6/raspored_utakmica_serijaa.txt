@@ -1,0 +1,99 @@
+1. Napoli
+   Napoli vs. Juventus  5. april 2025, 20:00
+   Inter Milan vs. Napoli  12. april 2025, 16:00
+   Napoli vs. Roma  19. april 2025, 18:30
+
+2. Juventus
+   Juventus vs. Napoli  6. april 2025, 14:30
+   Juventus vs. Atalanta  13. april 2025, 20:00
+   Lazio vs. Juventus  20. april 2025, 16:30
+
+3. Inter Milan
+   Inter Milan vs. Napoli  6. april 2025, 16:00
+   AC Milan vs. Inter Milan  13. april 2025, 18:00
+   Inter Milan vs. Lecce  20. april 2025, 14:00
+
+4. AC Milan
+   AC Milan vs. Inter Milan  6. april 2025, 20:00
+   AC Milan vs. Torino  13. april 2025, 16:30
+   Fiorentina vs. AC Milan  20. april 2025, 18:00
+
+5. Roma
+   Roma vs. Napoli  5. april 2025, 16:00
+   Roma vs. Lazio  12. april 2025, 18:00
+   Bologna vs. Roma  19. april 2025, 14:30
+
+6. Lazio
+   Lazio vs. Juventus  6. april 2025, 18:30
+   Roma vs. Lazio  13. april 2025, 14:30
+   Lazio vs. Spezia  20. april 2025, 14:00
+
+7. Atalanta
+   Atalanta vs. Juventus  5. april 2025, 18:00
+   Atalanta vs. Bologna  12. april 2025, 14:30
+   Torino vs. Atalanta  19. april 2025, 16:30
+
+8. Fiorentina
+   Fiorentina vs. AC Milan  6. april 2025, 14:00
+   Fiorentina vs. Verona  13. april 2025, 16:00
+   Fiorentina vs. Lecce  20. april 2025, 14:30
+
+9. Torino
+   Torino vs. AC Milan  6. april 2025, 14:30
+   Torino vs. Atalanta  13. april 2025, 18:30
+   Torino vs. Salernitana  20. april 2025, 16:00
+
+10. Bologna
+   Bologna vs. Roma  6. april 2025, 16:30
+   Bologna vs. Atalanta  13. april 2025, 14:30
+   Bologna vs. Empoli  20. april 2025, 18:30
+
+11. Monza
+   Monza vs. Spezia  5. april 2025, 14:00
+   Monza vs. Lecce  13. april 2025, 14:00
+   Monza vs. Verona  20. april 2025, 16:00
+
+12. Empoli
+   Empoli vs. Bologna  6. april 2025, 14:30
+   Empoli vs. Cagliari  13. april 2025, 16:00
+   Empoli vs. Sampdoria  20. april 2025, 14:30
+
+13. Salernitana
+   Salernitana vs. Torino  6. april 2025, 16:00
+   Salernitana vs. Spezia  13. april 2025, 18:30
+   Salernitana vs. Lecce  20. april 2025, 14:00
+
+14. Lecce
+   Lecce vs. Inter Milan  6. april 2025, 20:00
+   Lecce vs. Fiorentina  13. april 2025, 14:30
+   Lecce vs. Monza  20. april 2025, 18:30
+
+15. Udinese
+   Udinese vs. Sampdoria  5. april 2025, 16:00
+   Udinese vs. Verona  12. april 2025, 14:00
+   Udinese vs. Spezia  19. april 2025, 18:30
+
+16. Verona
+   Verona vs. Fiorentina  6. april 2025, 14:00
+   Verona vs. Udinese  13. april 2025, 14:30
+   Verona vs. Monza  20. april 2025, 16:00
+
+17. Spezia
+   Spezia vs. Lazio  6. april 2025, 18:00
+   Spezia vs. Udinese  13. april 2025, 14:00
+   Spezia vs. Salernitana  20. april 2025, 16:30
+
+18. Cagliari
+   Cagliari vs. Empoli  6. april 2025, 14:30
+   Cagliari vs. Sampdoria  13. april 2025, 20:00
+   Cagliari vs. Udinese  20. april 2025, 14:30
+
+19. Sampdoria
+   Sampdoria vs. Cagliari  6. april 2025, 16:30
+   Sampdoria vs. Empoli  13. april 2025, 16:30
+   Sampdoria vs. Spezia  20. april 2025, 14:00
+
+20. Frosinone
+   Frosinone vs. Lecce  6. april 2025, 14:00
+   Frosinone vs. Bologna  13. april 2025, 20:00
+   Frosinone vs. Lazio  20. april 2025, 16:00

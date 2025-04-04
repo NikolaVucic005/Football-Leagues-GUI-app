@@ -1,0 +1,119 @@
+1. Genoa
+   Serie B titule: 2
+   Coppa Italia: 1
+   Supercoppa Italiana: 0
+   UEFA Lige sampiona: 0
+
+2. Cagliari
+   Serie B titule: 0
+   Coppa Italia: 1
+   Supercoppa Italiana: 0
+   UEFA Lige sampiona: 0
+
+3. Parma
+   Serie B titule: 0
+   Coppa Italia: 3
+   Supercoppa Italiana: 0
+   UEFA Lige sampiona: 2
+
+4. Bari
+   Serie B titule: 0
+   Coppa Italia: 0
+   Supercoppa Italiana: 0
+   UEFA Lige sampiona: 0
+
+5. Brescia
+   Serie B titule: 4
+   Coppa Italia: 0
+   Supercoppa Italiana: 0
+   UEFA Lige sampiona: 0
+
+6. Reggina
+   Serie B titule: 1
+   Coppa Italia: 0
+   Supercoppa Italiana: 0
+   UEFA Lige sampiona: 0
+
+7. Pisa
+   Serie B titule: 0
+   Coppa Italia: 0
+   Supercoppa Italiana: 0
+   UEFA Lige sampiona: 0
+
+8. Venezia
+   Serie B titule: 2
+   Coppa Italia: 0
+   Supercoppa Italiana: 0
+   UEFA Lige sampiona: 0
+
+9. Ascoli
+   Serie B titule: 0
+   Coppa Italia: 0
+   Supercoppa Italiana: 0
+   UEFA Lige sampiona: 0
+
+10. Perugia
+    Serie B titule: 0
+    Coppa Italia: 2
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+11. Spal
+    Serie B titule: 2
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+12. Frosinone
+    Serie B titule: 2
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+13. Lecce
+    Serie B titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+14. Ternana
+    Serie B titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+15. Cosenza
+    Serie B titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+16. Benevento
+    Serie B titule: 2
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+17. Como
+    Serie B titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+18. Sudtirol
+    Serie B titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+19. Modena
+    Serie B titule: 1
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0
+
+20. Palermo
+    Serie B titule: 0
+    Coppa Italia: 0
+    Supercoppa Italiana: 0
+    UEFA Lige sampiona: 0

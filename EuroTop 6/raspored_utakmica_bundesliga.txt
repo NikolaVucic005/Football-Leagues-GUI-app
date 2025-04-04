@@ -1,0 +1,89 @@
+1. Bayern Munich
+   Bayern Munich vs. Borussia Dortmund  5. april 2025, 16:00
+   RB Leipzig vs. Bayern Munich  12. april 2025, 14:30
+   Bayern Munich vs. Bayer Leverkusen  19. april 2025, 18:00
+
+2. Borussia Dortmund
+   Borussia Dortmund vs. Bayern Munich  6. april 2025, 14:30
+   Borussia Dortmund vs. Wolfsburg  13. april 2025, 16:00
+   Borussia Dortmund vs. Eintracht Frankfurt  20. april 2025, 14:00
+
+3. RB Leipzig
+   RB Leipzig vs. Bayern Munich  5. april 2025, 18:30
+   Bayer Leverkusen vs. RB Leipzig  12. april 2025, 16:00
+   RB Leipzig vs. Union Berlin  19. april 2025, 14:30
+
+4. Bayer Leverkusen
+   Bayer Leverkusen vs. RB Leipzig  5. april 2025, 14:30
+   Bayer Leverkusen vs. Bayern Munich  12. april 2025, 14:30
+   Bayer Leverkusen vs. VfB Stuttgart  19. april 2025, 18:00
+
+5. Union Berlin
+   Union Berlin vs. Werder Bremen  6. april 2025, 14:00
+   Union Berlin vs. RB Leipzig  13. april 2025, 14:30
+   Union Berlin vs. Schalke 04  20. april 2025, 16:00
+
+6. VfB Stuttgart
+   VfB Stuttgart vs. Bayern Munich  6. april 2025, 14:00
+   VfB Stuttgart vs. Borussia Monchengladbach  13. april 2025, 16:00
+   VfB Stuttgart vs. Wolfsburg  20. april 2025, 16:30
+
+7. Wolfsburg
+   Wolfsburg vs. Borussia Dortmund  5. april 2025, 18:30
+   Wolfsburg vs. VfB Stuttgart  12. april 2025, 20:00
+   Wolfsburg vs. Eintracht Frankfurt  19. april 2025, 14:30
+
+8. Eintracht Frankfurt
+   Eintracht Frankfurt vs. Bayer Leverkusen  6. april 2025, 14:30
+   Eintracht Frankfurt vs. Borussia Dortmund  13. april 2025, 18:30
+   Eintracht Frankfurt vs. RB Leipzig  20. april 2025, 14:00
+
+9. Borussia Monchengladbach
+   Borussia Monchengladbach vs. Wolfsburg  6. april 2025, 16:30
+   Borussia Monchengladbach vs. Bayer Leverkusen  13. april 2025, 14:00
+   Borussia Monchengladbach vs. Schalke 04  20. april 2025, 18:00
+
+10. FC Koln
+   FC Koln vs. Union Berlin  6. april 2025, 14:30
+   FC Koln vs. Werder Bremen  13. april 2025, 14:00
+   FC Koln vs. Eintracht Frankfurt  20. april 2025, 16:30
+
+11. FSV Mainz 05
+   FSV Mainz 05 vs. Bayer Leverkusen  6. april 2025, 14:00
+   FSV Mainz 05 vs. Wolfsburg  13. april 2025, 16:30
+   FSV Mainz 05 vs. Borussia Dortmund  20. april 2025, 14:00
+
+12. VfL Bochum
+   VfL Bochum vs. 1. FC Koln  5. april 2025, 14:30
+   VfL Bochum vs. Werder Bremen  12. april 2025, 16:00
+   VfL Bochum vs. Borussia Monchengladbach  19. april 2025, 18:00
+
+13. Werder Bremen
+   Werder Bremen vs. Union Berlin  6. april 2025, 14:00
+   Werder Bremen vs. 1. FC Koln  13. april 2025, 14:30
+   Werder Bremen vs. Borussia Monchengladbach  20. april 2025, 16:00
+
+14. VfL Wolfsburg
+   VfL Wolfsburg vs. Borussia Dortmund  5. april 2025, 18:30
+   VfL Wolfsburg vs. VfB Stuttgart  12. april 2025, 20:00
+   VfL Wolfsburg vs. Eintracht Frankfurt  19. april 2025, 14:30
+
+15. Augsburg
+   Augsburg vs. Bayer Leverkusen  6. april 2025, 16:00
+   Augsburg vs. Borussia Monchengladbach  13. april 2025, 14:00
+   Augsburg vs. RB Leipzig  20. april 2025, 14:30
+
+16. Darmstadt
+   Darmstadt vs. Bayer Leverkusen  5. april 2025, 16:00
+   Darmstadt vs. Borussia Dortmund  12. april 2025, 18:30
+   Darmstadt vs. Wolfsburg  19. april 2025, 14:00
+
+17. Heidenheim
+   Heidenheim vs. Eintracht Frankfurt  6. april 2025, 16:30
+   Heidenheim vs. Borussia Monchengladbach  13. april 2025, 18:30
+   Heidenheim vs. Schalke 04  20. april 2025, 16:30
+
+18. Schalke 04
+   Schalke 04 vs. Werder Bremen  6. april 2025, 18:00
+   Schalke 04 vs. Darmstadt  13. april 2025, 16:00
+   Schalke 04 vs. Heidenheim  20. april 2025, 18:30

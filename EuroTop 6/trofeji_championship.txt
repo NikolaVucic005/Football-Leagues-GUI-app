@@ -1,0 +1,143 @@
+1. Sheffield United
+   Championship titule: 0
+   FA Cup: 1
+   EFL Cup: 1
+   UEFA Lige sampiona: 0
+
+2. Ipswich Town
+   Championship titule: 1
+   FA Cup: 2
+   EFL Cup: 4
+   UEFA Lige sampiona: 0
+
+3. Leicester City
+   Championship titule: 0
+   FA Cup: 1
+   EFL Cup: 3
+   UEFA Lige sampiona: 0
+
+4. Southampton
+   Championship titule: 0
+   FA Cup: 1
+   EFL Cup: 1
+   UEFA Lige sampiona: 0
+
+5. Middlesbrough
+   Championship titule: 0
+   FA Cup: 0
+   EFL Cup: 1
+   UEFA Lige sampiona: 0
+
+6. Sunderland
+   Championship titule: 0
+   FA Cup: 2
+   EFL Cup: 1
+   UEFA Lige sampiona: 0
+
+7. Norwich City
+   Championship titule: 4
+   FA Cup: 0
+   EFL Cup: 0
+   UEFA Lige sampiona: 0
+
+8. Coventry City
+   Championship titule: 0
+   FA Cup: 1
+   EFL Cup: 0
+   UEFA Lige sampiona: 0
+
+9. Stoke City
+   Championship titule: 0
+   FA Cup: 0
+   EFL Cup: 0
+   UEFA Lige sampiona: 0
+
+10. Swansea City
+    Championship titule: 1
+    FA Cup: 0
+    EFL Cup: 1
+    UEFA Lige sampiona: 0
+
+11. Blackburn Rovers
+    Championship titule: 1
+    FA Cup: 6
+    EFL Cup: 1
+    UEFA Lige sampiona: 1
+
+12. Hull City
+    Championship titule: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+13. Cardiff City
+    Championship titule: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+14. Watford
+    Championship titule: 2
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+15. Birmingham City
+    Championship titule: 0
+    FA Cup: 2
+    EFL Cup: 2
+    UEFA Lige sampiona: 0
+
+16. Millwall
+    Championship titule: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+17. West Bromwich Albion
+    Championship titule: 0
+    FA Cup: 5
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+18. Leeds United
+    Championship titule: 3
+    FA Cup: 1
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+19. Rotherham United
+    Championship titule: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+20. Preston North End
+    Championship titule: 0
+    FA Cup: 2
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+21. Queens Park Rangers
+    Championship titule: 2
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+22. Reading
+    Championship titule: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0
+
+23. Swansea City
+    Championship titule: 1
+    FA Cup: 0
+    EFL Cup: 1
+    UEFA Lige sampiona: 0
+
+24. Stoke City
+    Championship titule: 0
+    FA Cup: 0
+    EFL Cup: 0
+    UEFA Lige sampiona: 0

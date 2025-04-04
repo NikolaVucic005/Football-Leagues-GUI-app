@@ -1,0 +1,4 @@
+Cena za severnu i juznu tribinu:600
+Cena za istocnu tribinu:1000
+Cena za zapadnu tribinu:1200
+Cena za VIP lozu:2000
