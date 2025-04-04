@@ -1,0 +1,51 @@
+Afghanistan|Kabul|40218234
+Albania|Tirana|2837743
+Algeria|Algiers|44903225
+Andorra|Andorra la Vella|79824
+Angola|Luanda|36512438
+Argentina|Buenos Aires|45605823
+Armenia|Yerevan|2780455
+Australia|Canberra|26399183
+Austria|Vienna|8983745
+Azerbaijan|Baku|10139177
+Bahamas|Nassau|409984
+Bahrain|Manama|1788090
+Bangladesh|Dhaka|169356251
+Barbados|Bridgetown|281635
+Belarus|Minsk|9398861
+Belgium|Brussels|11686149
+Belize|Belmopan|441471
+Benin|Porto-Novo|13352897
+Bhutan|Thimphu|787941
+Bolivia|Sucre|12388571
+Serbia|Belgrade|6732400
+Bosnia and Herzegovina|Sarajevo|3247314
+Botswana|Gaborone|2630296
+Brazil|Brasilia|215353593
+Brunei|Bandar Seri Begawan|449002
+Bulgaria|Sofia|6655845
+Burkina Faso|Ouagadougou|23251491
+Burundi|Gitega|13365985
+Cambodia|Phnom Penh|16944822
+Cameroon|Yaoundé|28320695
+Canada|Ottawa|39517163
+Cape Verde|Praia|598682
+Central African Republic|Bangui|5676815
+Chad|N'Djamena|18278554
+Chile|Santiago|19629589
+China|Beijing|1425671352
+Colombia|Bogota|52439835
+Comoros|Moroni|852075
+Congo (Brazzaville)|Brazzaville|6219139
+Congo (Kinshasa)|Kinshasa|102262808
+Costa Rica|San José|5264525
+Croatia|Zagreb|3991403
+Cuba|Havana|11212043
+Cyprus|Nicosia|1260132
+Czech Republic|Prague|10519749
+Denmark|Copenhagen|5905958
+Djibouti|Djibouti|1122841
+Dominica|Roseau|74374
+Dominican Republic|Santo Domingo|11333237
+Ecuador|Quito|18001000
+Egypt|Cairo|111048454
