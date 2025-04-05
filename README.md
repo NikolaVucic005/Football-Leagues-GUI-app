@@ -26,10 +26,6 @@ A modern, interactive Python application for viewing teams, match schedules, tro
 - 💡 **Simple, Intuitive Navigation**  
   User-friendly interface with quick league selection and modular design.
 
-## 📸 Screenshots (optional)
-> Add images here if you later include GUI screenshots  
-> ![screenshot](images/main_menu.png)
-
 ## 🧱 Tech Stack
 
 - **Python 3**
